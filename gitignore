@@ -1,0 +1,34 @@
+# Compiled Object files
+*.o
+*.obj
+*.lo
+*.slo
+
+# Compiled Dynamic/Static libraries
+*.so
+*.dylib
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+CodeAlpha_CGPA_Calculator
+CodeAlpha_Login_and_Registration_System
+cgpa_calculator
+login_system
+
+# Debug files
+*.pdb
+*.ilk
+
+# IDE / Editor folders
+.vscode/
+.vs/
+*.suo
+*.user
+
+# OS-generated files
+.DS_Store
+Thumbs.db
