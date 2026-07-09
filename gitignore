@@ -16,8 +16,6 @@
 *.app
 CodeAlpha_CGPA_Calculator
 CodeAlpha_Login_and_Registration_System
-cgpa_calculator
-login_system
 
 # Debug files
 *.pdb
