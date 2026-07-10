@@ -27,7 +27,8 @@ CodeAlpha is a software development company offering internship programs that pr
 ├── CodeAlpha_CGPA_Calculator.cpp
 ├── CodeAlpha_Login_and_Registration_System.cpp
 ├── users.txt                     # sample/generated data file for Task 2
-└── README.md
+├── README.md
+└── gitignore 
 ```
 
 ## 🎓 Internship Info
