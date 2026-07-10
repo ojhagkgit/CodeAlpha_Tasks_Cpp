@@ -112,6 +112,6 @@ CodeAlpha_CGPA_Calculator.cpp   # Main source file containing all logic
 
 ## Author's Note
 
-This project was built as part of the **CodeAlpha** Internship task series (see filename prefix `CodeAlpha_`).
+This project was built as part of the **CodeAlpha** Internship C++ Programming task series (see filename prefix `CodeAlpha_`).
 
 Build by - Gaurav Kumar Ojha.
